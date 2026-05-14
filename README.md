@@ -2,7 +2,7 @@
 
 An AI-powered content pipeline that takes a topic or source URL and produces a fully reviewed short-form video ad — transcript, voiceover audio, ad concept, video production guide, and image prompts — entirely through Notion with human approval at each stage.
 
-Built to run on [Claude Routines](https://www.withone.ai), a cron job, or manually via the One CLI.
+Built to run on [Claude Routines](https://www.withone.ai), a cron job, or manually via the [One Agent](https://app.withone.ai/agents).
 
 ---
 
